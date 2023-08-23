@@ -9,6 +9,8 @@ dotenv
 langchain
 pypdf2
 streamlit_extras
+tiktoken
+faiss-cpu
 
 create a new virtual enviornment in anaconda
 type in the command "cd *the folder name which u have stored the .py file in* 
